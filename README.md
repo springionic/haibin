@@ -12,6 +12,17 @@
 ## 主要开发工具
 - Jupyter Notebook
 
+## 目录结构
+
+| 文件或文件夹 | 说明 |
+| - | - |
+| avocado.csv | csv 数据文件 |
+| avocado.ipynb | jupyter 程序文件及运行结果 |
+| avocado.html | HTML 格式预览程序及结果 |
+| avocado | Markdown 格式预览程序及结果 |
+| requirements.txt |  依赖库 |
+| log | 日志文件 |
+
 ## 主要第三方库依赖
 - TensorFlow 2
 - Sklearn
@@ -58,10 +69,3 @@ jupyter notebook
 ```
 
 - 浏览器查看运行程序
-
-
-
-
-
-
-
